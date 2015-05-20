@@ -1,0 +1,26 @@
+{
+  "name": "swig-filters",
+  "version": "0.1.0",
+  "description": "Collection of Swig template filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belsrc/swig-filters.git"
+  },
+  "keywords": [
+    "swig",
+    "filter",
+    "templates",
+    "swig",
+    "filters"
+  ],
+  "author": "Bryan Kizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belsrc/swig-filters/issues"
+  },
+  "homepage": "https://github.com/belsrc/swig-filters#readme"
+}
