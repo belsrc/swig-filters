@@ -15,7 +15,7 @@ npm install --save swig-filters
 To install the latest development version:
 
 ```bash
-npm install git+https://github.com/belsrc/swig-filters.git#develop
+npm install --save git+https://github.com/belsrc/swig-filters.git#develop
 ```
 
 
